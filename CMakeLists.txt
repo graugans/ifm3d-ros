@@ -10,7 +10,6 @@ find_package(ifm3d 0.9.0 CONFIG REQUIRED COMPONENTS
 find_package(catkin REQUIRED COMPONENTS
              rospy
              image_transport
-             pcl_ros
              cv_bridge
              nodelet
              roscpp
